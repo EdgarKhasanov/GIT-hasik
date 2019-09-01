@@ -1,1 +1,2 @@
-printe ("goodbye world")
+print("goodbye world")
+print("Goodbye")
